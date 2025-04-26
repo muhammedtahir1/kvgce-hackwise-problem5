@@ -1,0 +1,5 @@
+1 temperature 150.0
+2 temperature 95.0
+2 pressure 0.3
+3 pressure 90.5
+4 temperature 110.0
